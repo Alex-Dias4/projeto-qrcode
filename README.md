@@ -9,7 +9,7 @@ Este é um projeto simples para gerar QR Codes diretamente pelo terminal, usando
 
 ## 🚀 Funcionalidades
 
-- Geração rápida de QR Code a partir de texto ou links diretamente no terminal.
+- Geração rápida de QR Code a partir de links diretamente no terminal.
 - Saída visual do QR Code no console.
 
 ## 🔐 Configuração do arquivo `.env`

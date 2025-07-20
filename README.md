@@ -6,6 +6,8 @@ Este é um projeto simples para gerar QR Codes diretamente pelo terminal, usando
 
 - Node.js
 - [qrcode-terminal](https://www.npmjs.com/package/qrcode-terminal)
+- [chalk](https://www.npmjs.com/package/chalk)
+- [prompt](https://www.npmjs.com/package/prompt)
 
 ## 🚀 Funcionalidades
 
